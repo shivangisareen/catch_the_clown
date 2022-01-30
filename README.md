@@ -2,8 +2,8 @@
 
 Create a virtual environment-
 ```
-conda create -n burger_dog python=3.7
-conda activate burger_dog 
+conda create -n catch_the_clown python=3.7
+conda activate catch_the_clown 
 ```
 Once the virtual evironment is activated- `pip install pygame`
 
