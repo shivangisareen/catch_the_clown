@@ -7,4 +7,4 @@ conda activate catch_the_clown
 ```
 Once the virtual evironment is activated- `pip install pygame`
 
-Run the game and give it a try!
+Try to catch the clown by clicking on its image!
